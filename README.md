@@ -39,7 +39,7 @@ CSE(IOT,CS,BCT) Undergrad Student
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/193/69/png-clipart-round-red-and-gray-dragon-logo-kali-linux-penetration-test-security-hacker-backtrack-icon-hacker-logo-computer-wallpaper.png" width="36" height="36" alt="kali linux" /></a>
+<a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="36" height="36" alt="kali linux" /></a>
 </p>
 
 
