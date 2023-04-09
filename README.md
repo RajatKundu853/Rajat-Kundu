@@ -10,7 +10,7 @@ CSE(IOT,CS,BCT) Undergrad Student
 
    [***You like what you see? Nominate me for GitHub Stars!***](https://stars.github.com/nominate/)
    
-   Web Development made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤
+   Cyber Security made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤
 
 * 🌍  I'm based in Nabardwip, West Bengal, India.
 * 🌍  Currently Studying at University of Engineering and Management
