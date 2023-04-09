@@ -12,9 +12,9 @@ CSE(IOT,CS,BCT) Undergrad Student
    
    Web Development made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤
 
-* 🌍  I'm based in Champadanga, West Bengal, India.
+* 🌍  I'm based in Nabardwip, West Bengal, India.
 * 🌍  Currently Studying at University of Engineering and Management
-* ✉  You can contact me at [sadhukhansouvik2021@gmail.com](mailto:sadhukhansouvik2021@gmail.com)
+* ✉  You can contact me at [rajatkundu895@gmail.com](mailto:rajatkundu895@gmail.com)
 * 🧠  I'm learning Cyber Security and Kali Linux right now
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow xD
